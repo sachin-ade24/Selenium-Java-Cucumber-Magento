@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="41.027" tests="1" skipped="0" failures="0" errors="0">
-<testcase classname="Test login functionality for Magento" name="Check login is successful with valid credentials - #1.1" time="40.894">
+<testsuite name="Cucumber" time="16.607" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Test login functionality for Magento" name="Check login is successful with valid credentials - #1.1" time="16.447">
 <system-out><![CDATA[
 Given browser is opened.....................................................passed
 And user navigates to homepage..............................................passed
